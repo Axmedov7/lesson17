@@ -1,0 +1,32 @@
+h1{
+    font-size: 48px;
+    font-weight: 400px;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    width: 294px;
+    margin: 0 auto;
+    height: 500px;
+    margin-left: 283px;
+    gap: 290px;
+}
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 294px;
+    margin: 500 auto;
+    height: 500px;
+    margin-left: 283px;
+    gap: 290px;
+    margin-top: -130px;
+}
+.p1{
+    text-align: center;
+    color: black;
+}
+img{
+    border-radius: 30px;
+}
